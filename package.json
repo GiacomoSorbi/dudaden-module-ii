@@ -14,7 +14,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server/server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -34,7 +34,7 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "node app",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
@@ -47,5 +47,5 @@
   "bugs": {
     "url": "https://github.com/dudaden/SmartBrothers-React/issues"
   },
-  "homepage": "https://github.com/dudaden/SmartBrothers-React#readme"
+  "homepage": "/"
 }
