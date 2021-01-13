@@ -39,13 +39,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://giacomosorbi.github.io/dudaden-module-ii"
+    "url": "git+https://github.com/dudaden/SmartBrothers-React.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://giacomosorbi.github.io/dudaden-module-ii"
+    "url": "https://github.com/dudaden/SmartBrothers-React/issues"
   },
   "homepage": "/"
 }
