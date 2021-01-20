@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e118f7f.chunk.css",
-    "main.js": "/static/js/main.b31c3d53.chunk.js",
-    "main.js.map": "/static/js/main.b31c3d53.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
-    "static/js/2.6a164ef7.chunk.js": "/static/js/2.6a164ef7.chunk.js",
-    "static/js/2.6a164ef7.chunk.js.map": "/static/js/2.6a164ef7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.06fb4c6c29ab8181d316b8f528e8caf3.js": "/precache-manifest.06fb4c6c29ab8181d316b8f528e8caf3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2e118f7f.chunk.css.map": "/static/css/main.2e118f7f.chunk.css.map",
-    "static/js/2.6a164ef7.chunk.js.LICENSE.txt": "/static/js/2.6a164ef7.chunk.js.LICENSE.txt"
+    "main.css": "/dudaden-module-ii/static/css/main.2e118f7f.chunk.css",
+    "main.js": "/dudaden-module-ii/static/js/main.b31c3d53.chunk.js",
+    "main.js.map": "/dudaden-module-ii/static/js/main.b31c3d53.chunk.js.map",
+    "runtime-main.js": "/dudaden-module-ii/static/js/runtime-main.75825ce6.js",
+    "runtime-main.js.map": "/dudaden-module-ii/static/js/runtime-main.75825ce6.js.map",
+    "static/js/2.6a164ef7.chunk.js": "/dudaden-module-ii/static/js/2.6a164ef7.chunk.js",
+    "static/js/2.6a164ef7.chunk.js.map": "/dudaden-module-ii/static/js/2.6a164ef7.chunk.js.map",
+    "index.html": "/dudaden-module-ii/index.html",
+    "precache-manifest.7489c1eb6b3ef7703c2bf2ac3b8a8295.js": "/dudaden-module-ii/precache-manifest.7489c1eb6b3ef7703c2bf2ac3b8a8295.js",
+    "service-worker.js": "/dudaden-module-ii/service-worker.js",
+    "static/css/main.2e118f7f.chunk.css.map": "/dudaden-module-ii/static/css/main.2e118f7f.chunk.css.map",
+    "static/js/2.6a164ef7.chunk.js.LICENSE.txt": "/dudaden-module-ii/static/js/2.6a164ef7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ba1596e.js",
+    "static/js/runtime-main.75825ce6.js",
     "static/js/2.6a164ef7.chunk.js",
     "static/css/main.2e118f7f.chunk.css",
     "static/js/main.b31c3d53.chunk.js"
