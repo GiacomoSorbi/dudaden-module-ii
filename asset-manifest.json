@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dudaden-module-ii/static/css/main.b357d44a.chunk.css",
+    "main.js": "/dudaden-module-ii/static/js/main.486db001.chunk.js",
+    "main.js.map": "/dudaden-module-ii/static/js/main.486db001.chunk.js.map",
+    "runtime-main.js": "/dudaden-module-ii/static/js/runtime-main.75825ce6.js",
+    "runtime-main.js.map": "/dudaden-module-ii/static/js/runtime-main.75825ce6.js.map",
+    "static/js/2.6a164ef7.chunk.js": "/dudaden-module-ii/static/js/2.6a164ef7.chunk.js",
+    "static/js/2.6a164ef7.chunk.js.map": "/dudaden-module-ii/static/js/2.6a164ef7.chunk.js.map",
+    "index.html": "/dudaden-module-ii/index.html",
+    "precache-manifest.3f906c4d0c9ed098c91a40729276223d.js": "/dudaden-module-ii/precache-manifest.3f906c4d0c9ed098c91a40729276223d.js",
+    "service-worker.js": "/dudaden-module-ii/service-worker.js",
+    "static/css/main.b357d44a.chunk.css.map": "/dudaden-module-ii/static/css/main.b357d44a.chunk.css.map",
+    "static/js/2.6a164ef7.chunk.js.LICENSE.txt": "/dudaden-module-ii/static/js/2.6a164ef7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75825ce6.js",
+    "static/js/2.6a164ef7.chunk.js",
+    "static/css/main.b357d44a.chunk.css",
+    "static/js/main.486db001.chunk.js"
+  ]
+}
