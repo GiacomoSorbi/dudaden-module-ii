@@ -1,0 +1,49 @@
+.services {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-family: "Lobster Two", cursive;
+  color: #e3e5f2;
+}
+
+.services {
+  background-image: url('/images/services.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #252e48;
+  font-size: 100px;
+}
+
+.about-profile-pic {
+    float: left;
+    margin: 0 1em 1em 0;
+    width: 20em;
+    height: 15em;
+  }
+p {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
+  text-align: justify;
+  padding-right: 20px;
+}
+h3 {
+  font-family: "Lobster Two", cursive;
+  font-size: 40px;
+  color: #252e48;
+  text-align: center;
+}
+@media screen and (max-width: 960px) {
+  .services {
+    font-size: 60px;
+  }
+  .about-profile-pic {
+    width: 19em;
+    height: 15em;
+  }
+  p {
+    padding: 20px;
+  }
+}
