@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dudaden-module-ii/precache-manifest.bc8eb39130b9e8435e2b30d7632e4561.js"
+  "/dudaden-module-ii/precache-manifest.ea216501a444968ffd99d173c8c40fbe.js"
 );
 
 self.addEventListener('message', (event) => {
