@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/dudaden-module-ii/static/css/main.560e56db.chunk.css",
-    "main.js": "/dudaden-module-ii/static/js/main.14e8ce9c.chunk.js",
-    "main.js.map": "/dudaden-module-ii/static/js/main.14e8ce9c.chunk.js.map",
+    "main.css": "/dudaden-module-ii/static/css/main.535bee07.chunk.css",
+    "main.js": "/dudaden-module-ii/static/js/main.05353735.chunk.js",
+    "main.js.map": "/dudaden-module-ii/static/js/main.05353735.chunk.js.map",
     "runtime-main.js": "/dudaden-module-ii/static/js/runtime-main.93ff3732.js",
     "runtime-main.js.map": "/dudaden-module-ii/static/js/runtime-main.93ff3732.js.map",
-    "static/js/2.0e9ed070.chunk.js": "/dudaden-module-ii/static/js/2.0e9ed070.chunk.js",
-    "static/js/2.0e9ed070.chunk.js.map": "/dudaden-module-ii/static/js/2.0e9ed070.chunk.js.map",
+    "static/js/2.5838e01c.chunk.js": "/dudaden-module-ii/static/js/2.5838e01c.chunk.js",
+    "static/js/2.5838e01c.chunk.js.map": "/dudaden-module-ii/static/js/2.5838e01c.chunk.js.map",
     "index.html": "/dudaden-module-ii/index.html",
-    "precache-manifest.dd62e75b882d33b2d82628be8e194fbb.js": "/dudaden-module-ii/precache-manifest.dd62e75b882d33b2d82628be8e194fbb.js",
+    "precache-manifest.a87719c4b67f3168493b9c1159901a34.js": "/dudaden-module-ii/precache-manifest.a87719c4b67f3168493b9c1159901a34.js",
     "service-worker.js": "/dudaden-module-ii/service-worker.js",
-    "static/css/main.560e56db.chunk.css.map": "/dudaden-module-ii/static/css/main.560e56db.chunk.css.map",
-    "static/js/2.0e9ed070.chunk.js.LICENSE.txt": "/dudaden-module-ii/static/js/2.0e9ed070.chunk.js.LICENSE.txt",
+    "static/css/main.535bee07.chunk.css.map": "/dudaden-module-ii/static/css/main.535bee07.chunk.css.map",
+    "static/js/2.5838e01c.chunk.js.LICENSE.txt": "/dudaden-module-ii/static/js/2.5838e01c.chunk.js.LICENSE.txt",
+    "static/media/Painting.jpg": "/dudaden-module-ii/static/media/Painting.a05b7a72.jpg",
+    "static/media/login.jpg": "/dudaden-module-ii/static/media/login.1fabff04.jpg",
     "static/media/projects.jpg": "/dudaden-module-ii/static/media/projects.4df22a42.jpg",
     "static/media/services.jpg": "/dudaden-module-ii/static/media/services.b988642f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.93ff3732.js",
-    "static/js/2.0e9ed070.chunk.js",
-    "static/css/main.560e56db.chunk.css",
-    "static/js/main.14e8ce9c.chunk.js"
+    "static/js/2.5838e01c.chunk.js",
+    "static/css/main.535bee07.chunk.css",
+    "static/js/main.05353735.chunk.js"
   ]
 }
