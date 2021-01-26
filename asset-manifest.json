@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dudaden-module-ii/static/css/main.5bea3682.chunk.css",
-    "main.js": "/dudaden-module-ii/static/js/main.4b9dca0d.chunk.js",
-    "main.js.map": "/dudaden-module-ii/static/js/main.4b9dca0d.chunk.js.map",
+    "main.css": "/dudaden-module-ii/static/css/main.560e56db.chunk.css",
+    "main.js": "/dudaden-module-ii/static/js/main.14e8ce9c.chunk.js",
+    "main.js.map": "/dudaden-module-ii/static/js/main.14e8ce9c.chunk.js.map",
     "runtime-main.js": "/dudaden-module-ii/static/js/runtime-main.93ff3732.js",
     "runtime-main.js.map": "/dudaden-module-ii/static/js/runtime-main.93ff3732.js.map",
     "static/js/2.0e9ed070.chunk.js": "/dudaden-module-ii/static/js/2.0e9ed070.chunk.js",
     "static/js/2.0e9ed070.chunk.js.map": "/dudaden-module-ii/static/js/2.0e9ed070.chunk.js.map",
     "index.html": "/dudaden-module-ii/index.html",
-    "precache-manifest.edf25dc19bcdb04ac2f16645e1e61518.js": "/dudaden-module-ii/precache-manifest.edf25dc19bcdb04ac2f16645e1e61518.js",
+    "precache-manifest.dd62e75b882d33b2d82628be8e194fbb.js": "/dudaden-module-ii/precache-manifest.dd62e75b882d33b2d82628be8e194fbb.js",
     "service-worker.js": "/dudaden-module-ii/service-worker.js",
-    "static/css/main.5bea3682.chunk.css.map": "/dudaden-module-ii/static/css/main.5bea3682.chunk.css.map",
+    "static/css/main.560e56db.chunk.css.map": "/dudaden-module-ii/static/css/main.560e56db.chunk.css.map",
     "static/js/2.0e9ed070.chunk.js.LICENSE.txt": "/dudaden-module-ii/static/js/2.0e9ed070.chunk.js.LICENSE.txt",
     "static/media/projects.jpg": "/dudaden-module-ii/static/media/projects.4df22a42.jpg",
     "static/media/services.jpg": "/dudaden-module-ii/static/media/services.b988642f.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.93ff3732.js",
     "static/js/2.0e9ed070.chunk.js",
-    "static/css/main.5bea3682.chunk.css",
-    "static/js/main.4b9dca0d.chunk.js"
+    "static/css/main.560e56db.chunk.css",
+    "static/js/main.14e8ce9c.chunk.js"
   ]
 }

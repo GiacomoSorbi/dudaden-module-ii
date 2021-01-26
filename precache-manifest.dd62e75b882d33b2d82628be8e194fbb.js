@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c973e700dceada4f4e00f4c9f7d2c0b",
+    "revision": "27a6457373d76ae9a1fe65da6f072383",
     "url": "/dudaden-module-ii/index.html"
   },
   {
-    "revision": "25e739faed6dc48a0533",
-    "url": "/dudaden-module-ii/static/css/main.5bea3682.chunk.css"
+    "revision": "33f1e3d5df8c38183451",
+    "url": "/dudaden-module-ii/static/css/main.560e56db.chunk.css"
   },
   {
     "revision": "c3396e564a4d18478311",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dudaden-module-ii/static/js/2.0e9ed070.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25e739faed6dc48a0533",
-    "url": "/dudaden-module-ii/static/js/main.4b9dca0d.chunk.js"
+    "revision": "33f1e3d5df8c38183451",
+    "url": "/dudaden-module-ii/static/js/main.14e8ce9c.chunk.js"
   },
   {
     "revision": "536c57d45a04590bf40b",
