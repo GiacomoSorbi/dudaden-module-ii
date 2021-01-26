@@ -9,10 +9,6 @@
 }
 
 .services {
-  background-image: url('/images/services.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   color: #252e48;
   font-size: 100px;
 }

@@ -1,6 +1,7 @@
 import React from 'react';
 import './InputField.css';
 import InputField from './InputField';
+import background from "./moreImages/Painting.jpg";
 
 function App() {
   const inputRefs = React.useRef([
@@ -34,7 +35,11 @@ function App() {
   };
 
   return (
-    <div className="AppLogin">
+    <div style={{ backgroundImage: `url(${background})`, 
+      backgroundRepeat: 'no-repeat',
+      backgroundPosition: 'center',
+      backgroundSize: 'cover'
+    }}>
       <form onSubmit={submitForm} className="loginForm">
         <h1>Sign In Form</h1>
         <InputField
